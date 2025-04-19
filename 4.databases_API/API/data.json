@@ -1,0 +1,13 @@
+
+  {
+    "name": "samsung_A17Pro",
+    "data": {
+      "year": 2030,
+      "price": 1099,
+      "CPU model": "A17 Pro",
+      "RAM": "16GB",
+      "storage": "128GB",
+      "battery": "4000mAh",
+      "color": "Phantom Gray"
+    }
+  }

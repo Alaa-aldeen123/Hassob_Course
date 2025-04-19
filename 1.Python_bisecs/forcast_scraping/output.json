@@ -1,0 +1,171 @@
+{
+  "title": "Popular Cities' Forcast",
+  "date": "15/01/2025",
+  "Cities": [
+    {
+      "city": "Amsterdam",
+      "temp": 7,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Antalya",
+      "temp": 12,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Auckland",
+      "temp": 15,
+      "Condition": "Clear sky"
+    },
+    {
+      "city": "Bali",
+      "temp": 23,
+      "Condition": "Few clouds"
+    },
+    {
+      "city": "Barcelona",
+      "temp": 12,
+      "Condition": "Partly cloudy"
+    },
+    {
+      "city": "Buenos Aires",
+      "temp": 29,
+      "Condition": "Clear sky"
+    },
+    {
+      "city": "Cairo",
+      "temp": 19,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Cancún",
+      "temp": 28,
+      "Condition": "Partly cloudy"
+    },
+    {
+      "city": "Cape Town",
+      "temp": 20,
+      "Condition": "Clear sky"
+    },
+    {
+      "city": "Dubai",
+      "temp": 22,
+      "Condition": "Clear sky"
+    },
+    {
+      "city": "Hanoi",
+      "temp": 17,
+      "Condition": "Few clouds"
+    },
+    {
+      "city": "Hong Kong",
+      "temp": 18,
+      "Condition": "Clear sky"
+    },
+    {
+      "city": "Honolulu",
+      "temp": 22,
+      "Condition": "Few clouds"
+    },
+    {
+      "city": "Ibiza Town",
+      "temp": 12,
+      "Condition": "Few clouds"
+    },
+    {
+      "city": "Istanbul",
+      "temp": 6,
+      "Condition": "Light intensity drizzle"
+    },
+    {
+      "city": "Lima",
+      "temp": 24,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "London",
+      "temp": 9,
+      "Condition": "Overcast clouds"
+    },
+    {
+      "city": "Marmagao",
+      "temp": 27,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Oslo",
+      "temp": 3,
+      "Condition": "Overcast clouds"
+    },
+    {
+      "city": "Paris",
+      "temp": 7,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Phuket",
+      "temp": 26,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Rhodes",
+      "temp": 16,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Rio de Janeiro",
+      "temp": 26,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Rome",
+      "temp": 8,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Seoul",
+      "temp": -5,
+      "Condition": "Overcast clouds"
+    },
+    {
+      "city": "Sharm el Sheikh",
+      "temp": 23,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Singapore",
+      "temp": 26,
+      "Condition": "Broken clouds"
+    },
+    {
+      "city": "Sydney",
+      "temp": 22,
+      "Condition": "Partly cloudy"
+    },
+    {
+      "city": "Tenerife",
+      "temp": 21,
+      "Condition": "Clear sky"
+    },
+    {
+      "city": "Tokyo",
+      "temp": 4,
+      "Condition": "Clear sky"
+    },
+    {
+      "city": "Toronto",
+      "temp": -5,
+      "Condition": "Overcast clouds"
+    },
+    {
+      "city": "Venice",
+      "temp": 4,
+      "Condition": "Clear sky"
+    },
+    {
+      "city": "Vienna",
+      "temp": 3,
+      "Condition": "Broken clouds"
+    }
+  ]
+}
