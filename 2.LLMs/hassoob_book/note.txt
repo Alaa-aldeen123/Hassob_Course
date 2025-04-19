@@ -1,0 +1,2 @@
+i changed the port in command linse:(.venv) D:\AI cours by Hasoob\code\hassoob_book>
+streamlit run app_for_web.py --server.port 8502
