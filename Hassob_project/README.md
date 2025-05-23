@@ -47,7 +47,7 @@ A Flask-based web application that predicts the stage of heart disease based on 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Alaa-aldeen123/heart-disease-prediction.git
+   git clone https://github.com/Alaa-aldeen123/Hassob_Course/Hassob_project.git
    cd heart-disease-prediction
    ```
 
