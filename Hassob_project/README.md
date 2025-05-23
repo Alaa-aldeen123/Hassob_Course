@@ -48,7 +48,7 @@ A Flask-based web application that predicts the stage of heart disease based on 
 
    ```bash
    git clone https://github.com/Alaa-aldeen123/Hassob_Course/Hassob_project.git
-   cd heart-disease-prediction
+   cd Hassob_project
    ```
 
 2. **Create and activate a virtual environment**
